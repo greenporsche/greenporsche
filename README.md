@@ -6,7 +6,7 @@ I build mathematical frameworks for understanding when AI systems fail — and I
 
 ## 🔬 Research
 
-### [Directional Collision Principle](https://github.com/greenporsche/tau-collision-theorem)
+### [Directional Collision Principle](https://github.com/greenporsche/Directional-Collision-Principle)
 A geometric framework for predicting adversarial vulnerability in neural networks. 87.5% prediction accuracy, zero missed vulnerabilities, cross-task generalization. Currently exploring applications to gene regulatory networks and clinical AI safety.
 
 ### Computational Biology
