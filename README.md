@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siddharth Krishna
+# 👋 Hi, I'm Siddharth!
 
 **AI × Math x Biology Researcher** · High School Junior · CA
 
