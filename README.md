@@ -12,7 +12,7 @@ I work on the mathematics underneath AI: bounds that predict when a neural netwo
 
 An AI driver learns to brake into La Source, the first corner at Spa-Francorchamps. A small guardian watches each of its actions and steps in only when the car is about to pass the point of no return. The plan is to prove the guardian's rule correct in the [Lean](https://lean-lang.org) theorem prover, for a stated, simplified model of the car. Then I'll measure what that guarantee costs in speed, whether the AI still drives well once the guardian is removed, and where the simplified model's promise stops holding in more realistic simulators.
 
-The experiments run on **[drYve](https://github.com/greenporsche/drYve)** ([try it in your browser](https://dryve-chi.vercel.app)), an F1 driving simulator of Spa and the Nürburgring built from public LiDAR and open map data, with a headless gym for training AI drivers.
+I plan to run the experiments on **[drYve](https://github.com/greenporsche/drYve)** ([try it in your browser](https://dryve-chi.vercel.app)), an F1 driving simulator of Spa and the Nürburgring built from public LiDAR and open map data, with a headless gym for training AI drivers.
 
 ## 🔬 Earlier research
 
@@ -20,7 +20,7 @@ The experiments run on **[drYve](https://github.com/greenporsche/drYve)** ([try 
 Science fair project, 2025–26. Using the readable circuits in OpenAI's weight-sparse transformers to attack them, and to predict which inputs an attack can flip. The best circuit-informed strategy flipped 31 of 128 predictions, against 2 of 128 for random edits.
 
 ### [A Quantitative Collision Principle](https://github.com/greenporsche/Tau-Collision-Short-Note)
-A short note (January 2026). When a space has a mirror-like symmetry, any continuous measurement on it must agree with its mirror image somewhere, and a Lipschitz bound says how far each point must sit from those places.
+A short note (January 2026). When a path-connected space has a mirror-like symmetry, any continuous measurement on it must agree with its mirror image somewhere, and a Lipschitz bound says how far each point must sit from those places.
 
 ### [Hyperplane Arrangements](https://github.com/greenporsche/euler-circle/blob/main/4.%20combinatorics/Hyperplane%20Arrangements.pdf)
 An expository paper connecting hyperplane arrangements to combinatorial complexity and ReLU networks (Euler Circle, fall 2025).
