@@ -2,27 +2,28 @@
 
 **Math × AI Researcher** · High School Senior · CA
 
-I work on the mathematics underneath AI: bounds that predict when a neural network can be fooled, and now, machine-checked proofs that could keep a learning AI safe. I also build real software by directing AI coding agents.
+I work on the mathematics underneath AI: bounds that predict when a neural network can be fooled, and now, machine-checked proofs that could keep a learning AI safe.
 
-## 🏎️ Current research: a proof-checked guardian for an AI racing driver
+## 🏎️ Current research: a proof-checked safety controller for an AI racing driver
 
-*In progress. No results yet.*
-
-**Can a mathematically checked guardian help an AI learn to race safely, without the AI coming to depend on it?**
+**Can a mathematically checked safety controller help an AI learn to race aggressively, but safely?**
 
 An AI driver learns to brake into La Source, the first corner at Spa-Francorchamps. A small guardian watches each of its actions and steps in only when the car is about to pass the point of no return. The plan is to prove the guardian's rule correct in the [Lean](https://lean-lang.org) theorem prover, for a stated, simplified model of the car. Then I'll measure what that guarantee costs in speed, whether the AI still drives well once the guardian is removed, and where the simplified model's promise stops holding in more realistic simulators.
 
-I plan to run the experiments on **[drYve](https://github.com/greenporsche/drYve)** ([try it in your browser](https://dryve-chi.vercel.app)), an F1 driving simulator of Spa and the Nürburgring built from public LiDAR and open map data, with a headless gym for training AI drivers.
+Experiments run on **[drYve](https://github.com/greenporsche/drYve)** ([try it in your browser](https://dryve-chi.vercel.app)), an F1 driving simulator built from public LiDAR and open map data, with a gym environment for training AI drivers.
 
 ## 🔬 Earlier research
 
 ### [Directional Collision Principle](https://github.com/greenporsche/Directional-Collision-Principle)
+
 Science fair project, 2025–26. Using the readable circuits in OpenAI's weight-sparse transformers to attack them, and to predict which inputs an attack can flip. The best circuit-informed strategy flipped 31 of 128 predictions, against 2 of 128 for random edits.
 
 ### [A Quantitative Collision Principle](https://github.com/greenporsche/Tau-Collision-Short-Note)
+
 A short note (January 2026). When a path-connected space has a mirror-like symmetry, any continuous measurement on it must agree with its mirror image somewhere, and a Lipschitz bound says how far each point must sit from those places.
 
 ### [Hyperplane Arrangements](https://github.com/greenporsche/euler-circle/blob/main/4.%20combinatorics/Hyperplane%20Arrangements.pdf)
+
 An expository paper connecting hyperplane arrangements to combinatorial complexity and ReLU networks (Euler Circle, fall 2025).
 
 ## 🛠️ Things I've built
@@ -35,7 +36,7 @@ An expository paper connecting hyperplane arrangements to combinatorial complexi
 ## 📐 Training
 
 - **[USAAIO Training](https://github.com/greenporsche/usaaio-training)**: my preparation for the USA AI Olympiad.
-- **[Euler Circle](https://github.com/greenporsche/euler-circle)**: problem sets in proofs, higher mathematics, combinatorics and infinite series.
+- **[Euler Circle](https://github.com/greenporsche/euler-circle)**: problem sets in proofs, higher mathematics, combinatorics, infinite series, p-adic analysis, and generating functions.
 
 ## 🏆 Recognition
 
