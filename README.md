@@ -36,7 +36,7 @@ An expository paper connecting hyperplane arrangements to combinatorial complexi
 ## 📐 Training
 
 - **[USAAIO Training](https://github.com/greenporsche/usaaio-training)**: my preparation for the USA AI Olympiad.
-- **[Euler Circle](https://github.com/greenporsche/euler-circle)**: problem sets in proofs, higher mathematics, combinatorics, infinite series, p-adic analysis, and generating functions.
+- **[Euler Circle](https://github.com/greenporsche/euler-circle)**: problem sets in abstract algebra, linear algebra, real analysis, point-set topology, combinatorics, infinite series, p-adic analysis, and generating functions.
 
 ## 🏆 Recognition
 
